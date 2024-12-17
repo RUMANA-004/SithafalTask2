@@ -79,7 +79,6 @@ Notes
 Rate Limits: OpenAI's API usage is limited. Ensure proper handling with delays or consider upgrading your plan for high usage.
 Ethical Use: Ensure compliance with copyright and usage policies when scraping websites.
 Security: Avoid hardcoding sensitive keys like the API key in production. Use environment variables instead.
-Let me know if you need further assistance or specific customizations!
 
 
 
